@@ -110,3 +110,7 @@ FROM transactions
 WHERE TotalPrice > 3330.41
 ORDER BY TotalPrice DESC;
 ```
+
+## On my portfolio
+
+- Case study: [ghostiemoh.com/#work](https://ghostiemoh.com/#work)
